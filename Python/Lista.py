@@ -14,5 +14,6 @@ for x in range(1, 10):
 while not (N._Prior is None):
   print(N.valor) 
   N = N._Prior
+  
 print(N.valor) 
     
