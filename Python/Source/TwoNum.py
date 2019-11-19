@@ -44,7 +44,7 @@ class Solution:
         
         return [first_indx, second_indx]
 
-nums = [3, 4 , 3, 2]  
+nums = [3, 3]  
 target = 6
 S = Solution
 a = S.twoSum(S, nums, target)      
